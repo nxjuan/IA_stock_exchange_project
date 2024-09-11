@@ -47,17 +47,25 @@ o nome do link é autoexplicativo fds
 ---
 **Libs obrigatorias
 >`pandas` - para processamento de dados em tabela
+>
 >`numpy` - para processamento de dados numericos muito grandes e operações matematicas avançadas
+>
 >`PyAlgoTrade` - para o uso de algoritmos no setor financeiro
+>
 >`yfinance` - API com dados financeiros historicos e em tempo real
 
 **Libs uteis
 
 >`Scikit-learn` - para aprendizado de máquina
+>
 >`TensorFlow` - para aprendizagem profunda
+>
 >`Keras` - para aprendizagem profunda
+>
 >`PyTorch` - para redes neurais
+>
 >`NLTK` - para processamento de linguagem natural
+>
 >`sklearn`⭐ - para aprendizado de máquina
 
 ---
